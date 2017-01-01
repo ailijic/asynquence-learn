@@ -1,0 +1,20 @@
+{
+  "name": "asynquence-learn",
+  "version": "1.0.0",
+  "description": "Learn Asynquence NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ailijic/asynquence-learn.git"
+  },
+  "keywords": [],
+  "author": "ailijic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ailijic/asynquence-learn/issues"
+  },
+  "homepage": "https://github.com/ailijic/asynquence-learn#readme"
+}
